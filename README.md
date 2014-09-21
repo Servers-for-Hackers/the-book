@@ -11,3 +11,13 @@ If you find any issues or have anything to say, such as, but not limited to:
 4. General, lavish praise
 
 ... please leave it in this repository as a [new issue](https://github.com/Servers-for-Hackers/the-book/issues)!
+
+### To make a new issue
+
+I need the following information:
+
+1. Chapter of the information
+2. Page number, if available, preferably from the PDF version
+3. Any text or surrounding text I can search for will be helpful
+
+I have a lot of Markdown files which while close, don't exactly correlate to the various versions of the final book. Any help in finding the specific text you reference in a new issue is appreciated!
