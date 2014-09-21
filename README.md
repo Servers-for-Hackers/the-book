@@ -16,7 +16,7 @@ If you find any issues or have anything to say, such as, but not limited to:
 
 Please provide the following information:
 
-1. Chapter of the information
+1. Relevant section and chapter
 2. Page number, if available, preferably from the PDF version
 3. Any text or surrounding text I can search for will be helpful
 
