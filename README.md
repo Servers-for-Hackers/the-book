@@ -1,7 +1,7 @@
 The Servers for Hackers eBook
 =========
 
-## Issues, comments, corrections here!
+## Issues, comments, & corrections here!
 
 If you find any issue such as:
 
