@@ -12,9 +12,9 @@ If you find any issues or have anything to say, such as, but not limited to:
 
 ... please leave it in this repository as a [new issue](https://github.com/Servers-for-Hackers/the-book/issues)!
 
-### To make a new issue
+### To make a new issue:
 
-I need the following information:
+Please provide the following information:
 
 1. Chapter of the information
 2. Page number, if available, preferably from the PDF version
