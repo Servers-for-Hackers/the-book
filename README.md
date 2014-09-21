@@ -20,4 +20,4 @@ I need the following information:
 2. Page number, if available, preferably from the PDF version
 3. Any text or surrounding text I can search for will be helpful
 
-I have a lot of Markdown files which, while close to the PDF, don't exactly correlate to the various versions of the final book. Any help in finding the specific text you reference in a new issue is appreciated!
+I have a lot of Markdown files which, while close to the PDF, aren't necessarily *exactly* correlated to the various versions of the final book. Any help in finding the specific text you reference in a new issue is appreciated!
