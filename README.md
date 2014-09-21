@@ -3,7 +3,7 @@ The Servers for Hackers eBook
 
 ## Issues, comments, & corrections here!
 
-If you find any issue such as:
+If you find any issues or have anything to say, such as, but not limited to:
 
 1. Incorrect or mis-leading information
 2. Typos
